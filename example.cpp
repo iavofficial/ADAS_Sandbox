@@ -1,6 +1,7 @@
 #include <iostream>
 
 int main() {
+	
 	// intialisation
     int int_num1 = 10;
     int int_num2 = 0;
